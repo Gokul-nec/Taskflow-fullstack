@@ -32,14 +32,3 @@ Designed to be clean, secure, and easy to manage your tasks.
 
 ---
 
-## 📦 Installation
-
-```bash
-git https://github.com/anuragbcet/Taskflow.git
-cd Taskflow
-cd frontend
-npm install
-cd ../backend
-npm install
-```
-
